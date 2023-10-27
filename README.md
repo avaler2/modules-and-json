@@ -22,4 +22,6 @@ Use with keyword to save data to a file named 'personal.json'
 
 ### Task 4.:heavy_plus_sign: Explore json.dump method
 - Try saving the jsonContent dictionary to another json file using JSON.dump method
+- Now convert the code so that you use dump method directly, rather than JSON.dump
 - What is the difference between JSON.dumps and JSON.dump methods?
+  
